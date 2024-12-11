@@ -1,42 +1,36 @@
-                    MOST OF IT IS NOT MY CODE PUBLIC LICENSE
+# Custom Academic License for "MINDS-CDS Joint Workshop" Demonstration Code
+"MINDS-CDS 공동 학회" 시연 코드에 대한 커스텀 학술 라이선스
 
-          :~!777!!!!!~~^::.                          .::^~~!!!7!!77!~:
-         !J7777!!!!!!!7777!!^                      ^!!!777!!!!!!!7777J7.
-        !J7!7777!!777??!77???:                    :???777??777!!777777J7.
-       ~~^^^^^^^^^^^~!7^77!~^!.                  .!^~!77^7!~^^^^^^^^^^^~!.
-      ^!^^^^^^^^~!~!~7^~^(   O)7                 .(O   )^~^7^!!!~^^^^^^^^!~
-      ~7^^^^^^^^?!!??7.^!7J5777                  7775J?!~.!??!!?^^^^^^^^!!
-      .~~^^^^^^^7!!???~::::^:^^~                ~^^:^^:.:~7??!~7^^^^^^^~!.
-        :~!~~~~~!7J7!777^~~~!~~!.              .!~~!~~~~7?7!7J7!~~~~~!~:
-          !::::::!77!!77JJJ?JJJ:                :JJJ?JJJ77!!777::::::7.
-         .!::::::!?!7!777??JJJ:                  :YJJ??777!77?7::::::!.
-       ::7~^:..::^?7!!77!J777??                  ??777J777!!7?^::..:^~7^:
-   .~JYB##BBGY7~:..^~!?7??!????.                .????!7?7?!~^:.:^7YGBB###5J!.
- ~JP#&&&########G5?!~~!J!~77!7~                  ~7!77~!J!~^!?YGB######&&&&#GJ!.
-  .:^~77?YPB###&&&&##BB#G^...                      ...^P#BB##&&&&###BG5J?7~^:..
-           .^~7Y5PGBBBBB#Y                            Y#BBBBBGPPY?!^.
-                  ..::::::                            .::::::.
-      Man, I stole your code                          It's not my code
+**Copyright (c) 2024.12 Chon, Sung Hyu 전성휴**
 
-                           Version 0.1.0, May 2023
- 
-Copyright (c) 2023 Chon, Sung Hyu
+This software is provided by Chon, Sung Hyu ("the Presenter") for demonstration purposes at the conference ["Learning in Humans and Machines: 2nd POSTECH MINDS-Chosun CDS Joint Workshop"](https://sites.google.com/view/minds-cds-workshop-2024/) held on December 12, 2024 (Thursday) - December 13, 2024 (Friday). 
+본 소프트웨어는 전성휴 연구원("발표자")에 의해 ["Learning in Humans and Machines: 제2회 포항공대 MINDS-조선대 CDS 공동 학회"](https://sites.google.com/view/minds-cds-workshop-2024/) (2024년 12월 12일 목요일 - 2024년 12월 13일 금요일)에서 시연을 목적으로 제공됩니다.
 
-Everyone is permitted to copy and distribute, modify this work as long as the 
-original licenses of this work is maintained.
-Most of the contents of this work are under MIT, GPL, or some other major public
-licenses. Use this work at your own risk.
-If copyright infringement occurs, the author will pretend that the author does
-not know anything, does not intend to defend you, and will claim that it's not
-the author's fault.
- 
-                    MOST OF IT IS NOT MY CODE PUBLIC LICENSE
-        TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+The following terms and conditions govern its use:
+본 소프트웨어 사용에 대한 다음의 조건들이 적용됩니다:
 
- 1. You do what the original authors tell you that you can do.
+1. **Academic Use Only**: The code is made publicly available for academic and research purposes only. Users are permitted to view, run, and analyze the code to better understand the concepts demonstrated during the workshop.
+1. **학술적 용도만 허용**: 본 코드는 오직 학술 및 연구 목적에만 공개됩니다. 사용자는 워크숍 중에 시연된 개념을 이해하기 위해 코드를 조회, 실행, 분석할 수 있습니다.
 
- 2. If the original license or author is not mentioned in some parts of code,
-    those codes are probably written by the author. You can use those parts of
-    code however you would like to, but keep in mind that the author has very
-    little experience in programming. Do not blame the author when you use those
-    codes for some serious applications and something goes wrong.
+2. **Non-Commercial Use**: Use of the code for any commercial purpose, including but not limited to product development, service offerings, or profit-generating activities, is strictly prohibited.
+2. **비상업적 용도**: 본 코드를 제품 개발, 서비스 제공, 수익 창출 활동 등 상업적 목적으로 사용하는 것은 엄격히 금지됩니다.
+
+3. **No Direct Copying or Misappropriation**: Users are not allowed to directly copy, distribute, or misappropriate the code in part or whole without the explicit written permission of the Presenter. Derivative works should acknowledge the original Presenter and include significant modifications.
+3. **직접 복제 및 무단 사용 금지**: 사용자는 발표자의 명시적인 서면 허가 없이 본 코드를 전부 또는 일부를 복제, 배포, 무단 사용할 수 없습니다. 파생 작품을 만들 경우, 원본 발표자를 명시적으로 인정하고, 중요한 수정이 이루어져야 합니다.
+
+4. **Time-Limited Availability**: The code is made available during the period of the conference and may be made private or modified at the Presenter's discretion after December 13, 2024. Users are expected to view and try the code only within this timeframe.
+4. **시간 제한적 제공**: 본 코드는 워크숍 기간 동안만 제공되며, 2024년 12월 13일 이후 발표자의 재량에 따라 비공개되거나 수정될 수 있습니다. 사용자는 이 기간 내에만 코드를 열람하고 시도할 수 있습니다.
+
+5. **Acknowledgment**: Any use of the code or insights derived from it in academic publications, presentations, or derivative works must include an acknowledgment of its origin and citation of the conference "Learning in Humans and Machines: 2nd MINDS-CDS Joint Workshop."
+5. **인용 및 출처 표시**: 본 코드를 사용하거나 이를 통해 얻은 통찰을 학술 논문, 발표, 파생 작업 등에 사용 시, "Learning in Humans and Machines: 제2회 MINDS-CDS 공동 학회"을 출처로 명시해야 합니다.
+
+6. **Disclaimer**: This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Presenter be liable for any claim, damages, or other liability arising from the use of the code.
+6. **책임의 부인**: 본 소프트웨어는 어떠한 형태의 보증 없이 "있는 그대로" 제공됩니다. 상업성, 특정 목적에 대한 적합성, 비침해 등의 보증을 포함하여 명시적 또는 묵시적인 보증은 없습니다. 본 코드를 사용함에 따라 발생하는 어떠한 청구, 손해 또는 기타 법적 책임에 대해서도 발표자는 책임을 지지 않습니다.
+
+By using this software, you agree to the terms and conditions outlined in this license.
+본 소프트웨어를 사용함으로써, 사용자는 본 라이선스에 명시된 조건에 동의한 것으로 간주됩니다.
+
+---
+
+For questions or permissions, please contact: [shhchon@postech.ac.kr](mailto:shhchon@postech.ac.kr)
+문의 사항이나 허가 요청은 다음 연락처로 송부해 주시기 바랍니다: [shhchon@postech.ac.kr](mailto:shhchon@postech.ac.kr)
